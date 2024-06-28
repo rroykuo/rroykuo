@@ -4,5 +4,5 @@
 - A member of SoC & Embedded System Software Lab
     - Advisor: Prof. Tien-Fu Chen
     - Research areas:  [Edge AI](https://people.cs.nctu.edu.tw/~tfchen/students.htm)
-- Current research: Develop Hardware Configurable AI Accelerator Simulator (base on Gem5)
+- Current research: KV Cache optimization for LLM inference
 - How to reach me: rroykuo@gmail.com
